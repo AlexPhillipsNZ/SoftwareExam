@@ -1,0 +1,5 @@
+H:\2017 S1\SoftwareExam\SoftwareExam\flaskr\flaskr>flask initdb
+The current directory is invalid.
+
+Changed this line, hoping for a fix.
+DATABASE=os.path.join(app.root_path, 'H:\2017S1\SoftwareExam\SoftwareExam\flaskr\flaskr\tmpflaskr.db'),
