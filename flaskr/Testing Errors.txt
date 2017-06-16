@@ -1,0 +1,16 @@
+============================= test session starts =============================
+platform win32 -- Python 3.5.2, pytest-2.9.2, py-1.4.31, pluggy-0.3.1
+rootdir: H:\2017S1\SoftwareExam\SoftwareExam\flaskr, inifile:
+collected 0 items
+
+======================== no tests ran in 0.11 seconds =========================
+
+H:\2017S1\SoftwareExam\SoftwareExam\flaskr>python setup.py test
+usage: setup.py [global_opts] cmd1 [cmd1_opts] [cmd2 [cmd2_opts] ...]
+   or: setup.py --help [cmd1 cmd2 ...]
+   or: setup.py --help-commands
+   or: setup.py cmd --help
+
+error: invalid command 'pytest'
+
+H:\2017S1\SoftwareExam\SoftwareExam\flaskr>

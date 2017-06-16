@@ -65,3 +65,18 @@ operable program or batch file.
 H:\2017 S1\SoftwareExam\SoftwareExam\flaskr\flaskr>H:\2017 S1\SoftwareExam\SoftwareExam\flaskr\flaskr H:\2017 S1\SoftwareExam\SoftwareExam\flaskr\flaskr\tmp\flaskr.db < schema.sql
 'H:\2017' is not recognized as an internal or external command,
 operable program or batch file.
+
+Powershell
+
+PS H:\> cd H:\2017S1\SoftwareExam\SoftwareExam\flaskr\flaskr
+PS H:\2017S1\SoftwareExam\SoftwareExam\flaskr\flaskr> sqlite3 /tmp/flaskr.db < schema.sql
+At line:1 char:24
++ sqlite3 /tmp/flaskr.db < schema.sql
++                        ~
+The '<' operator is reserved for future use.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : RedirectionNotSupported
+
+
+
+
