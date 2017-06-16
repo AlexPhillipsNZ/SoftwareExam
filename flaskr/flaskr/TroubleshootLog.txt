@@ -3,3 +3,11 @@ The current directory is invalid.
 
 Changed this line, hoping for a fix.
 DATABASE=os.path.join(app.root_path, 'H:\2017S1\SoftwareExam\SoftwareExam\flaskr\flaskr\tmpflaskr.db'),
+
+H:\2017S1\SoftwareExam\SoftwareExam\flaskr\flaskr>flask initdb
+Usage: flask-script.py [OPTIONS] COMMAND [ARGS]...
+
+Error: No such command "initdb".
+
+Followed through steps 1-4 Checking they were done correctly. Tried multiple arrangements on function placement with no working result.
+Will contiune to work through the steps without proper Database setup.
